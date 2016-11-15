@@ -16,10 +16,10 @@
 	height: 0;
 }
 .videoWrapper iframe {
-	position: relative;
+	position: absolute;
 	top: 0;
 	left: 0;
-	max-width: 560px;;
-	max-height: 315;
+	width: 100%;
+	height: 100%;
 }
 </style>

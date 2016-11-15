@@ -23,28 +23,28 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <router-link to="/">{{$t('survivalstrijd')}}</router-link>
+                        <router-link to="/">{{$t('nav.survivalstrijd')}}</router-link>
                     </li>
                     <li>
-                        <router-link to="/informatie">{{$t('informatie')}}</router-link>
+                        <router-link to="/informatie">{{$t('nav.informatie')}}</router-link>
                     </li>
                     <li>
-                        <router-link to="/wat_is_een_survivalrun">{{$t('watIsEenSurvivalrun')}}</router-link>
+                        <router-link to="/wat_is_een_survivalrun">{{$t('nav.watIsEenSurvivalrun')}}</router-link>
                     </li>
                     <li>
-                        <router-link to="/eindtijden">{{$t('eindtijden')}}</router-link>
+                        <router-link to="/eindtijden">{{$t('nav.eindtijden')}}</router-link>
                     </li>
                     <li>
-                        <router-link to="/fotos">{{$t('fotos')}}</router-link>
+                        <router-link to="/fotos">{{$t('nav.fotos')}}</router-link>
                     </li>
                     <li>
-                        <router-link to="/sponsoren">{{$t('sponsoren')}}</router-link>
+                        <router-link to="/sponsoren">{{$t('nav.sponsoren')}}</router-link>
                     </li>
                     <li>
-                        <router-link to="/parcours">{{$t('parcours')}}</router-link>
+                        <router-link to="/parcours">{{$t('nav.parcours')}}</router-link>
                     </li>
                     <li>
-                        <router-link to="/bedrijfsrun">{{$t('bedrijfsrun')}}</router-link>
+                        <router-link to="/bedrijfsrun">{{$t('nav.bedrijfsrun')}}</router-link>
                     </li>
                 </ul>
             </div>

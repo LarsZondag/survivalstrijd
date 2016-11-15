@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import i18n from 'voo-i18n'
+import VueI18n from 'vue-i18n'
 import VueRouter from 'vue-router'
 
 import SurvivalStrijd from './components/SurvivalStrijd.vue'
@@ -13,22 +13,7 @@ import Sponsor from './components/sponsoren/Sponsor.vue'
 import Informatie from './components/Informatie.vue'
 import WatIsEenSurvivalrun from './components/watIsEenSurvivalrun.vue'
 
-const translations = {
-    'nl': {
-        'survivalstrijd': 'SurvivalStrijd',
-        'watIsEenSurvivalrun': 'Wat is een survivalrun?',
-        'informatie': 'Informatie',
-        'eindtijden': 'Eindtijden',
-        'fotos': 'Foto\'s',
-        'sponsoren': 'Sponsoren',
-        'bedrijfsrun': 'Bedrijfsrun',
-        'parcours': 'Parcours'
-    },
-    'en': {
-        'Hello world': 'Hello worlddd'
-    }
-}
-
+import translations from './translations.json'
 
 const routes = [
   { path: '/', component: SurvivalStrijd },
@@ -45,7 +30,11 @@ const router = new VueRouter({
   routes: routes
 })
 
-Vue.use(i18n, translations)
+Vue.use(VueI18n)
+Vue.config.lang = 'nl'
+Object.keys(translations).forEach(function (lang) {
+  Vue.locale(lang, translations[lang])
+})
 Vue.use(VueRouter)
 
 new Vue({
