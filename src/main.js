@@ -11,7 +11,7 @@ import Bedrijfsrun from './components/Bedrijfsrun.vue'
 import Sponsoren from './components/sponsoren/Sponsoren.vue'
 import Sponsor from './components/sponsoren/Sponsor.vue'
 import Informatie from './components/Informatie.vue'
-import WatIsEenSurvivalrun from './components/watIsEenSurvivalrun.vue'
+import WatIsEenSurvivalrun from './components/WatIsEenSurvivalrun.vue'
 
 import translations from './translations.json'
 
