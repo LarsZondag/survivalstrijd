@@ -1,7 +1,7 @@
 <template>
-<div>
-<h2>Starttijden</h2>
+    <div>
+        <h2>{{$t('eindtijden.eindtijden')}}</h2>
 
-<p>Klik hier voor de eindtijden</p>
-</div>
+        <p>{{$t('eindtijden.klikHier')}}</p>
+    </div>
 </template>

@@ -1,18 +1,12 @@
 <template>
-<div>
-<p></p>
+    <div>
+        <p></p>
 
-<p>{{ $t('watIsEenSurvivalrun.watIsHet') }}</p>
+        <p v-html="$t('watIsEenSurvivalrun.watIsHet')"></p>
 
-<p>FAQ</p>
+        <p><b>FAQ</b></p>
 
-<p>{{ $t('watIsEenSurvivalrun.watVoorKleding') }}</p>
+        <p style="text-align: left" v-html="$t('watIsEenSurvivalrun.FAQ')"></p>
 
-<p>{{ $t('watIsEenSurvivalrun.watKanIkWinnen') }}</p>
-
-<p>{{ $t('watIsEenSurvivalrun.isErNogIets') }}</p>
-
-<p>{{ $t('watIsEenSurvivalrun.ikBenOvertuigd') }}</p>
-
-</div>
+    </div>
 </template>
