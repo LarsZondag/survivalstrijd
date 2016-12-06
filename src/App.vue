@@ -80,6 +80,8 @@
             </div>
         </div>
 
+        <div class="spacer"></div>
+
         <footer class="footer navbar-fixed-bottom">
             <div class="container">
                 <div class="row">
@@ -221,6 +223,11 @@
     footer {
         background: #fff;
         background: rgba(255, 255, 255, 0.8);
+        /*margin-top: 250px;*/
+    }
+
+    .spacer {
+        height: 68px;
     }
 
     footer p {
