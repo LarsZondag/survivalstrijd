@@ -1,6 +1,11 @@
 <template>
 
     <div id="app">
+        <div id="slopend">
+            <a href="slopend.com">
+                <button class="btn" id="goToSite" v-html="$t('reguliereSite')"></button>
+            </a>
+        </div>
         <div class="brand">
             <img id="logo" src="./assets/logo-banner.png">
         </div>
@@ -75,7 +80,7 @@
             </div>
         </div>
 
-        <footer>
+        <footer class="footer navbar-fixed-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -192,7 +197,7 @@
         margin-bottom: 20px;
         padding: 30px 15px;
         background: #fff;
-        background: rgba(255, 255, 255, 0.9);
+        background: rgba(255, 255, 255, 0.95);
     }
 
     .intro-text {
@@ -215,15 +220,45 @@
 
     footer {
         background: #fff;
-        background: rgba(255, 255, 255, 0.9);
+        background: rgba(255, 255, 255, 0.8);
     }
 
     footer p {
         margin: 0;
-        padding: 50px 0;
+        padding: 20px 0;
+    }
+
+    #slopend {
+        display: none;
+        margin: 0px;
     }
 
     @media screen and (min-width: 768px) {
+        #slopend {
+            display: block;
+            float: right;
+            /*background: white;*/
+            margin: 10px;
+            /*padding-top: .5em;*/
+            /*padding-bottom: .5em;*/
+            /*width: 250px;*/
+            text-align: center;
+        }
+
+        #goToSite {
+            background: #1D740F;
+            color: white;
+            border-color: #FFFFFF;
+            font-weight: bold;
+        }
+
+        #goToSite:hover {
+            background: white;
+            color: #1D740F;
+            border-color: #FFFFFF;
+            font-weight: bold;
+        }
+
         .brand {
             display: inherit;
             margin: 0;
@@ -274,7 +309,7 @@
         .navbar-default {
             border: none;
             background: #fff;
-            background: rgba(255, 255, 255, 0.9);
+            background: rgba(255, 255, 255, 0.95);
         }
 
         .nav > li > a {
@@ -283,6 +318,10 @@
 
         .navbar-nav > li > a {
             line-height: normal;
+        }
+
+        .navbar-default .navbar-nav > li > a {
+            color: #1d1d1d;
         }
 
         .navbar-nav {
