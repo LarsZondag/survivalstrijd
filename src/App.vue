@@ -29,13 +29,16 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
                         <li>
-                            <router-link to="/">{{$t('nav.survivalstrijd')}}</router-link>
+                            <router-link to="/survivalstrijd">{{$t('nav.survivalstrijd')}}</router-link>
                         </li>
                         <li>
                             <router-link to="/informatie">{{$t('nav.informatie')}}</router-link>
                         </li>
                         <li>
-                            <router-link to="/wat_is_een_survivalrun">{{$t('nav.watIsEenSurvivalrun')}}</router-link>
+                            <router-link to="/vrijwilligers">{{$t('nav.vrijwilligers')}}</router-link>
+                        </li>
+                        <li>
+                            <router-link to="/trainingen">{{$t('nav.trainingen')}}</router-link>
                         </li>
                         <li>
                             <router-link to="/eindtijden">{{$t('nav.eindtijden')}}</router-link>
@@ -119,7 +122,7 @@
 
     body {
         font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-        background: url('./assets/bg.jpg') no-repeat center center fixed;
+        background: url('./assets/bg.png') no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
@@ -172,7 +175,9 @@
     #logo {
         /*width: 100%;*/
         max-width: 100%;
-        padding: 60px 100px 10px 100px;
+        display: inherit;
+        margin-left: auto;
+        margin-right: auto
     }
 
     .brand-before,
@@ -243,9 +248,12 @@
     @media screen and (min-width: 768px) {
         #slopend {
             display: block;
-            float: right;
+            position:absolute;
+
+            right: 30px;
+            top: 10px;
             /*background: white;*/
-            margin: 10px;
+            margin: auto;
             /*padding-top: .5em;*/
             /*padding-bottom: .5em;*/
             /*width: 250px;*/
@@ -320,7 +328,11 @@
         }
 
         .nav > li > a {
-            padding: 15px;
+            padding: 9px;
+        }
+
+        .router-link-active {
+            font-weight: bold;
         }
 
         .navbar-nav > li > a {

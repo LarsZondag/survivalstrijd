@@ -1,7 +1,7 @@
 <template>
     <div>
         <img id="company_run" src="../assets/company_run.jpg">
-        <p v-html="$t('bedrijfsrun')"></p>
+        <p style="text-align: left" v-html="$t('bedrijfsrun')"></p>
         <!--<p>For companies highly affiliated with the TU Delft students, we would like to offer the opportunity to join-->
         <!--the Survival Strijd. As a team of 2-5 persons, your employees will be challenged to survive our survivalrun-->
         <!--right in the middle of the campus.</p>-->

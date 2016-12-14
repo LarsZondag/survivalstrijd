@@ -1,5 +1,5 @@
 <template>
 <div>
-<p>{{ $t('informatie.informatie') }}</p>
+<p>{{ $t('informatie') }}</p>
 </div>
 </template>

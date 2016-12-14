@@ -2,7 +2,7 @@
     <div>
     <p>{{ $t('survivalstrijd.beforeVideo') }}</p>
     <div class="videoWrapper">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/74n7mKQ4rt8" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-4O0kaOncew" frameborder="0" allowfullscreen></iframe>
     </div>
     <p>{{ $t('survivalstrijd.afterVideo') }}</p> 
     </div>

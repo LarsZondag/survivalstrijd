@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>{{ $t('parcours') }} </h2>
+        <p>{{ $t('parcours') }} </p>
 
         <img style="max-width: 100%" src="../assets/parcours_2016.png">
     </div>

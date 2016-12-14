@@ -1,37 +1,28 @@
 {
   "nl": {
     "nav": {
-      "survivalstrijd": "Survivalstrijd",
-      "watIsEenSurvivalrun": "Wat is een survivalrun?",
+      "survivalstrijd": "SurvivalStrijd",
       "informatie": "Informatie",
+      "parcours": "Parcours",
+      "vrijwilligers": "Vrijwilligers",
+      "trainingen": "Trainingen",
       "eindtijden": "Eindtijden",
       "fotos": "Foto's",
       "sponsoren": "Sponsoren",
-      "bedrijfsrun": "Bedrijfsrun",
-      "parcours": "Parcours"
+      "bedrijfsrun": "Bedrijfsrun"
     },
     "survivalstrijd": {
-      "beforeVideo": "Zaterdag 21 mei organiseert SBV Slopend de Survivalstrijd, de jaarlijkse run over de campus van de TU! Heb jij het in je om alle hindernissen te overwinnen?",
-      "afterVideo": "De inschrijvingen zijn gesloten. Wil je toch mee doen? Schrijf je dan op 21 mei vòòr 14:00 in op het sportcentrum. De plaatsen zijn beperkt, wees er snel bij!"
+      "beforeVideo": "Zaterdag 13 mei organiseert S.B.V. Slopend de SurvivalStrijd, een jaarlijkse run over de campus van de TU Delft! Heb jij het in je om alle hindernissen te overwinnen?",
+      "afterVideo": "De inschrijvingen zullen een aantal weken voor 13 mei open gaan."
     },
-    "informatie": {
-      "informatie": "De inschrijvingen voor de Survival Strijd zijn gesloten Toch meedoen? Zorg dan dat je op 21 mei voor 14:00 op het sportcentrum bent. Je kunt dan contant €10,00 betalen en alsnog mee doen. De extra plekken zijn beperkt, wees er snel bij!"
-    },
-    "watIsEenSurvivalrun": {
-      "watIsHet": "<b>Wat is een survivalrun?</b> Een survivalrun is een wedstrijd waarbij je zo snel mogelijk een parcours met hindernissen af moet leggen. Deze hindernissen variëren van touwklimmen tot boogschieten en alles wat daar tussen in zit.",
-      "FAQ": "<b>Wat voor kleding moet ik aan?</b> Gewone sportkleding en (hardloop)schoenen zijn goed genoeg. Een lange broek is handig vanwege de touwen bij de hindernissen, een (hardloop)tight is helemaal goed. Wij zorgen voor een mooi T-shirt met je startnummer.<br><b>Wat kan ik winnen?</b> Voor de snelste heer en de snelste dame individueel hebben we een 10-rittenkaart om te gaan boulderen bij Delfts Bleau. Het snelste team en het team met de leukste outfit wint een bierproeverij bij de Koperen Kat!<br><b>Is er nog iets anders te doen als ik gefinisht ben?</b> Bij de finish staat er eerst een warme hottub op je te wachten. Dan kun je nog even nagenieten bij de barbecue!<br><b>Ik ben overtuigd, hoe kan ik me inschrijven?</b> Inschrijven voor de korte run kost €9,00 en kan via de knop: deelnemersinformatie en inschrijven."
-    },
-    "parcours": "Parcours",
-    "fotos": {
-      "fotos": "Foto's",
-      "klikOpLink": "Klik op een van de links om de foto's te bekijken"
-    },
-    "eindtijden": {
-      "eindtijden": "Eindtijden",
-      "klikHier": "Klik hier voor de eindtijden"
-    },
-    "bedrijfsrun": "For companies highly affiliated with the TU Delft students, we would like to offer the opportunity to join the Survival Strijd. As a team of 2-5 persons, your employees will be challenged to survive our survivalrun right in the middle of the campus. <br>Not only will your employees experience the energy of all the students participating, these students will also experience your company in a different, refreshing setting.<br>That’s not all! After the finishline, hottubs will be waiting to celebrate your accomplishment. Or you can join us on the terrace besides the finish line for drinks and bbq! Perfect as team building activity.<br>And that only for € 100,- per team.<br>NOTE! You have the opportunity to wear a special company run T-shirt during the run with your company logo. Only a limited numer of T-shirts wil be available so subscribe as soon as possible!<br>Interested? Please send a e-mail to acquisitie@slopend.com for more information or to subscribe! ",
-    "reguliereSite": "Ga naar reguliere site"
+    "informatie": "De inschrijvingen voor de SurvivalStrijd zullen een aantal weken voor 13 mei open gaan. Je kunt je dan inschrijven voor de 5km run (individueel of met een groep) of de 9km (individueel of in    koppels). Verder kost de 5km run €8,50 en de 9km €12,50.",
+    "parcours": "Het parcours is nog niet volledig uitgestippeld, maar het parcours van vorig jaar kan je alvast een idee geven van hoe het er uit gaat zien:",
+    "fotos":"Hier zullen links naar de foto’s geplaatst worden wanneer deze online staan.",
+    "eindtijden": "De eindtijden staan nog niet online.",
+    "bedrijfsrun": "Voor bedrijven die veel in aanraking komen met TU Delft studenten, bieden wij de mogelijkheid om mee te doen aan de SurvivalStrijd. Met een team van 2-5 mensen, zullen uw medewerkers uitgedaagd worden om de survival run in het midden van het TU Delft campus te doorstaan. <br>Niet alleen zullen uw medewerkers de energie van alle studenten ervaren, de studenten zullen uw bedrijf ook in een nieuwe verfrissende omgeving zien. <br>Maar dat is nog niet alles! Na de finish zullen er hottubs en een barbeque zijn. Een perfecte team-buidling activiteit. <br>De kosten zijn €100,- per 2-5 persoon team. <br>Er is de mogelijkheid om een speciaal bedrijfs-shirt te dragen tijdens de run, met uw bedrijfslogo. Geïnteresseerd? Stuur een email naar acquisitie@slopend.com voor meer informatie of om u in te schrijven.",
+    "vrijwilligers": "Mensen die graag willen helpen bij de SurvivalStrijd zijn altijd welkom. Meer informatie betreffende taken en aanmelden volgt nog.",
+    "trainingen":"Voor de SurvivalStrijd zal er de mogelijkheid zijn om je ook aan te melden voor trainingen. Bij deze trainingen zullen de basistechnieken van de survivalsport uitgelegd worden, welke je zeker zullen helpen bij de run. Plaatsen zullen beperkt zijn, dus wees er vroeg bij!",
+    "reguliereSite":"Reguliere Slopend site"
   },
   "en": {
     "nav": {
@@ -42,29 +33,21 @@
       "fotos": "Photos",
       "sponsoren": "Sponsors",
       "bedrijfsrun": "Companyrun",
-      "parcours": "Parcours"
+      "parcours": "Parcours",
+      "trainingen": "Trainings",
+      "vrijwilligers": "Volunteers"
     },
     "survivalstrijd": {
-      "beforeVideo": "Zaterdag 21 mei organiseert SBV Slopend de Survivalstrijd, de jaarlijkse run over de campus van de TU! Heb jij het in je om alle hindernissen te overwinnen?",
-      "afterVideo": "De inschrijvingen zijn gesloten. Wil je toch mee doen? Schrijf je dan op 21 mei vòòr 14:00 in op het sportcentrum. De plaatsen zijn beperkt, wees er snel bij!"
+      "beforeVideo": "On Saturday May 13th S.B.V. Slopend organises the SurvivalStrijd, a yearly run on the TU Delft campus! Do you have what it takes to beat the obstacles?",
+      "afterVideo": "Signups will open a few weeks before May 13th"
     },
-    "informatie": {
-      "informatie": "De inschrijvingen voor de Survival Strijd zijn gesloten Toch meedoen? Zorg dan dat je op 21 mei voor 14:00 op het sportcentrum bent. Je kunt dan contant €10,00 betalen en alsnog mee doen. De extra plekken zijn beperkt, wees er snel bij!"
-    },
-    "watIsEenSurvivalrun": {
-      "watIsHet": "<b>Wat is een survivalrun?</b> Een survivalrun is een wedstrijd waarbij je zo snel mogelijk een parcours met hindernissen af moet leggen. Deze hindernissen variëren van touwklimmen tot boogschieten en alles wat daar tussen in zit.",
-      "FAQ": "<b>Wat voor kleding moet ik aan?</b> Gewone sportkleding en (hardloop)schoenen zijn goed genoeg. Een lange broek is handig vanwege de touwen bij de hindernissen, een (hardloop)tight is helemaal goed. Wij zorgen voor een mooi T-shirt met je startnummer.<br><b>Wat kan ik winnen?</b> Voor de snelste heer en de snelste dame individueel hebben we een 10-rittenkaart om te gaan boulderen bij Delfts Bleau. Het snelste team en het team met de leukste outfit wint een bierproeverij bij de Koperen Kat!<br><b>Is er nog iets anders te doen als ik gefinisht ben?</b> Bij de finish staat er eerst een warme hottub op je te wachten. Dan kun je nog even nagenieten bij de barbecue!<br><b>Ik ben overtuigd, hoe kan ik me inschrijven?</b> Inschrijven voor de korte run kost €9,00 en kan via de knop: deelnemersinformatie en inschrijven."
-    },
-    "parcours": "Parcours",
-    "fotos": {
-      "fotos": "Photos",
-      "klikOpLink": "Click one of the links to view the photos"
-    },
-    "eindtijden": {
-      "eindtijden": "Finish times",
-      "klikHier": "Click here for the finishtimes"
-    },
-    "bedrijfsrun": "For companies highly affiliated with the TU Delft students, we would like to offer the opportunity to join the Survival Strijd. As a team of 2-5 persons, your employees will be challenged to survive our survivalrun right in the middle of the campus. <br>Not only will your employees experience the energy of all the students participating, these students will also experience your company in a different, refreshing setting.<br>That’s not all! After the finishline, hottubs will be waiting to celebrate your accomplishment. Or you can join us on the terrace besides the finish line for drinks and bbq! Perfect as team building activity.<br>And that only for € 100,- per team.<br>NOTE! You have the opportunity to wear a special company run T-shirt during the run with your company logo. Only a limited numer of T-shirts wil be available so subscribe as soon as possible!<br>Interested? Please send a e-mail to acquisitie@slopend.com for more information or to subscribe! ",
-    "reguliereSite": "Go to Slopend.com"
+    "informatie": "The signups for the SurvivalStrijd will open a few weeks before May 13th. You can then sign up for the 5km run (individually or with a group) or the 9km run (individually or in couples). The 5km run will cost €8,50 and the 9km run €12,50.",
+    "fotos":"Here links to the photos will be placed as soon as they're online.",
+    "parcours": "The track hasn’t been laid out completely yet, but last year’s on should give you a good impression of what it will look like:",
+    "eindtijden": "The finish times are not online yet.",
+    "bedrijfsrun": "For companies highly affiliated with the TU Delft students, we would like to offer the opportunity to partake in the SurvivalStrijd. As a team of 2-5 people, your employees will be challenged to survive our survival run right in the middle of the TU Delft campus. <br>Not only will your employees experience the energy of all the students participating, the students will also view your company in a different and refreshing setting. <br>That’s not all! After the finish line, hot tubs will be waiting to celebrate your accomplishment. You can also join us on the tarrace besides the finish for drinks and a barbeque. A perfect team building activity. <br>The costs are €100,- per 2-5 person team. <br>NOTE: You have the opportunity to wear a special company run T-shirt during the run with your company logo. Only a limited number of T-shirts will be available so sign up as soon as possible! <br>Interested? Please send an e-mail to acquisitie@slopend.com for more information or to sign up.",
+    "vrijwilligers": "People that want to help make the SurvivalStrijd possible are always welcome. More information concerning the possible tasks and signing up as a volunteer will follow.",
+    "trainingen":"Before the SurvivalStrijd there will be the opportunity to also sign up for training sessions. In these sessions the basic technique of the survival sport will be explained, which will definitely aid you in the run. There will be limited spots, so sign up early!",
+    "reguliereSite":"Regular Slopend site"
   }
 }
